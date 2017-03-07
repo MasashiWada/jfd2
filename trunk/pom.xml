@@ -4,7 +4,7 @@
   <groupId>nullfish</groupId>
   <artifactId>jfd2</artifactId>
   <packaging>jar</packaging>
-  <version>1.01</version>
+  <version>1.02.18</version>
   <name>jfd2</name>
   <url>http://maven.apache.org</url>
   
@@ -19,7 +19,7 @@
     <dependency>
       <groupId>nullfish</groupId>
       <artifactId>filefish</artifactId>
-      <version>20100301</version>
+      <version>20170307</version>
     </dependency>
 
     <dependency>
